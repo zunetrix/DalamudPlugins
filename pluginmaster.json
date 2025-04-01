@@ -2,7 +2,7 @@
   {
     "Author": "akira0245, Ori, Maintained by Kalle",
     "Name": "MidiBard 2 (Beta)",
-    "InternalName": "MidiBard2",
+    "InternalName": "MidiBard2 (Beta)",
     "AssemblyVersion": "2.7.1.1",
     "Description": "Bard performance using midi files or keyboard.\n- Solo and ensemble mode support\n- Text commands for instrument equip and switch\nSupported by FFXIV Bards & Bands Community: discord.gg/ff14bard",
     "ApplicableVersion": "any",
@@ -28,9 +28,9 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 0,
-    "LastUpdate": "1743078188",
-    "DownloadLinkInstall": "https://raw.githubusercontent.com/zunetrix/MidiBard2/downloads/beta/latest.zip",
-    "DownloadLinkTesting": "https://raw.githubusercontent.com/zunetrix/MidiBard2/downloads/beta/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/zunetrix/MidiBard2/downloads/beta/latest.zip"
+    "LastUpdate": "1743473513",
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/zunetrix/MidiBard2/main/downloads/beta/latest.zip",
+    "DownloadLinkTesting": "https://raw.githubusercontent.com/zunetrix/MidiBard2/main/downloads/beta/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/zunetrix/MidiBard2/main/downloads/beta/latest.zip"
   }
 ]
