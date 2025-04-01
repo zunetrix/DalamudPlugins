@@ -29,8 +29,8 @@
     "IsTestingExclusive": "False",
     "DownloadCount": 0,
     "LastUpdate": "1743078188",
-    "DownloadLinkInstall": "https://raw.githubusercontent.com/zunetrix/MidiBard2/downloads/beta.zip",
-    "DownloadLinkTesting": "https://raw.githubusercontent.com/zunetrix/MidiBard2/downloads/beta.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/zunetrix/MidiBard2/downloads/beta.zip"
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/zunetrix/MidiBard2/downloads/beta/latest.zip",
+    "DownloadLinkTesting": "https://raw.githubusercontent.com/zunetrix/MidiBard2/downloads/beta/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/zunetrix/MidiBard2/downloads/beta/latest.zip"
   }
 ]
