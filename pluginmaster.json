@@ -4,7 +4,7 @@
     "Name": "MidiBard 2 (BETA)",
     "InternalName": "ZuneBard",
     "AssemblyVersion": "1.0.0.32",
-    "TestingAssemblyVersion": "1.0.0.33",
+    "TestingAssemblyVersion": "1.0.0.35",
     "DalamudApiLevel": 13,
     "TestingDalamudApiLevel": 13,
     "Punchline": "Bard performance using midi files or keyboard.\nSupported by FFXIV Bards & Bands Community: discord.gg/ff14bard",
@@ -18,9 +18,6 @@
       "bard"
     ],
     "LoadPriority": 0,
-    "ImageUrls": [
-      "https://i.imgur.com/1R13XF0.png"
-    ],
     "IconUrl": "https://i.imgur.com/ZkWMsX7.png",
     "Changelog": "Weird features added",
     "AcceptsFeedback": "False",
@@ -32,5 +29,5 @@
     "DownloadLinkInstall": "https://raw.githubusercontent.com/zunetrix/MidiBard2/main/downloads/beta/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/zunetrix/MidiBard2/main/downloads/test/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/zunetrix/MidiBard2/main/downloads/beta/latest.zip"
-  }
+  }  
 ]
