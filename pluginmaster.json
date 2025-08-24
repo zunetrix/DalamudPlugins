@@ -4,6 +4,10 @@
     "Name": "MidiBard 2 (BETA)",
     "InternalName": "ZuneBard",
     "AssemblyVersion": "1.0.0.32",
+    "TestingAssemblyVersion": "1.0.0.33",
+    "DalamudApiLevel": 13,
+    "TestingDalamudApiLevel": 13,
+    "Punchline": "Bard performance using midi files or keyboard.\nSupported by FFXIV Bards & Bands Community: discord.gg/ff14bard",
     "Description": "Bard performance using midi files or keyboard.\n- Solo and ensemble mode support\n- Text commands for instrument equip and switch\nSupported by FFXIV Bards & Bands Community: discord.gg/ff14bard",
     "ApplicableVersion": "any",
     "RepoUrl": "https://midibard.org",
@@ -18,15 +22,15 @@
       "https://i.imgur.com/1R13XF0.png"
     ],
     "IconUrl": "https://i.imgur.com/ZkWMsX7.png",
-    "Punchline": "Bard performance using midi files or keyboard.\nSupported by FFXIV Bards & Bands Community: discord.gg/ff14bard",
     "Changelog": "Weird features added",
     "AcceptsFeedback": "False",
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 0,
     "LastUpdate": "1743473513",
+    "LoadSync": true,
     "DownloadLinkInstall": "https://raw.githubusercontent.com/zunetrix/MidiBard2/main/downloads/beta/latest.zip",
-    "DownloadLinkTesting": "https://raw.githubusercontent.com/zunetrix/MidiBard2/main/downloads/beta/latest.zip",
+    "DownloadLinkTesting": "https://raw.githubusercontent.com/zunetrix/MidiBard2/main/downloads/test/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/zunetrix/MidiBard2/main/downloads/beta/latest.zip"
   }
 ]
