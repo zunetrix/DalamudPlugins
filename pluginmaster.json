@@ -34,7 +34,7 @@
     "Author": "Zune",
     "Name": "MasterOfPuppets",
     "InternalName": "MasterOfPuppets",
-    "AssemblyVersion": "1.0.0",
+    "AssemblyVersion": "1.0.0.1",
     "DalamudApiLevel": 13,
     "TestingDalamudApiLevel": 13,
     "Punchline": "Plugin to send macro actions",
