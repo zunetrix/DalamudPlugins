@@ -2,7 +2,7 @@
   "Author": "Zune",
   "Name": "MasterOfPuppets",
   "InternalName": "MasterOfPuppets",
-  "AssemblyVersion": "1.0.0.1",
+  "AssemblyVersion": "1.0.0.2",
   "Description": "Plugin to send macro actions",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/zunetrix/MasterOfPuppets",
