@@ -29,5 +29,31 @@
     "DownloadLinkInstall": "https://raw.githubusercontent.com/zunetrix/MidiBard2/main/downloads/beta/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/zunetrix/MidiBard2/main/downloads/test/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/zunetrix/MidiBard2/main/downloads/beta/latest.zip"
+  } ,
+  {
+    "Author": "Zune",
+    "Name": "MasterOfPuppets",
+    "InternalName": "MasterOfPuppets",
+    "AssemblyVersion": "1.0.0.0",
+    "DalamudApiLevel": 13,
+    "TestingDalamudApiLevel": 13,
+    "Punchline": "Plugin to send macro actions",
+    "Description": "Plugin to send macro actions",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/zunetrix/MasterOfPuppets",
+    "Tags": [
+      "utility"
+    ],
+    "LoadPriority": 0,
+    "IconUrl": "https://i.imgur.com/0hdDvXd.png",
+    "Changelog": "Weird features added",
+    "AcceptsFeedback": "False",
+    "IsHide": "False",
+    "IsTestingExclusive": "False",
+    "DownloadCount": 0,
+    "LastUpdate": "1743473513",
+    "LoadSync": true,
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/zunetrix/DalamudPlugins/main/downloads/MasterOfPuppets/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/zunetrix/DalamudPlugins/main/downloads/MasterOfPuppets/latest.zip"
   }  
 ]
