@@ -1,0 +1,21 @@
+{
+  "Author": "Zune",
+  "Name": "Master Of Puppets",
+  "InternalName": "MasterOfPuppets",
+  "AssemblyVersion": "1.0.0.78",
+  "Description": "Plugin to send macro actions",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/zunetrix/MasterOfPuppets",
+  "Tags": [
+    "utility"
+  ],
+  "DalamudApiLevel": 14,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "IconUrl": "https://i.imgur.com/0hdDvXd.png",
+  "Punchline": "Plugin to send macro actions",
+  "Changelog": "Make it work?",
+  "AcceptsFeedback": false
+}
