@@ -17,7 +17,7 @@
     ],
     "LoadPriority": 0,
     "IconUrl": "https://i.imgur.com/ZkWMsX7.png",
-    "Changelog": " Rewriting old midibard code into new dalamud api windows system\n - Enabled Lyrics for solo bards\n - New Piano Roll view test\n - Add echo chat as test output lyrics / song name post",
+    "Changelog": " Rewriting old midibard code into new dalamud api windows system\n - Enabled Lyrics for solo bards\n - New Piano Roll view (WIP)\n - Add echo chat as test output lyrics / song name post",
     "AcceptsFeedback": "False",
     "IsHide": "False",
     "IsTestingExclusive": "False",
