@@ -17,7 +17,7 @@
     ],
     "LoadPriority": 0,
     "IconUrl": "https://i.imgur.com/ZkWMsX7.png",
-    "Changelog": "Weird features added",
+    "Changelog": " Rewriting old midibard code into new dalamud api windows system\n - Enabled Lyrics for solo bards\n - New Piano Roll view test",
     "AcceptsFeedback": "False",
     "IsHide": "False",
     "IsTestingExclusive": "False",
