@@ -3,7 +3,7 @@
     "Author": "akira0245, Ori, Kalle, Zune",
     "Name": "MidiBard 2 (BETA)",
     "InternalName": "ZuneBard",
-    "AssemblyVersion": "1.0.0.79",
+    "AssemblyVersion": "1.0.0.80",
     "DalamudApiLevel": 14,
     "Punchline": "Bard performance using midi files or keyboard.\nSupported by FFXIV Bards & Bands Community: discord.gg/ff14bard",
     "Description": "Bard performance using midi files or keyboard.\n- Solo and ensemble mode support\n- Text commands for instrument equip and switch\nSupported by FFXIV Bards & Bands Community: discord.gg/ff14bard",
@@ -15,15 +15,10 @@
       "midi",
       "bard"
     ],
-    "LoadPriority": 0,
     "IconUrl": "https://i.imgur.com/ZkWMsX7.png",
-    "Changelog": " Rewriting old midibard code into new dalamud api windows system\n - Enabled Lyrics for solo bards\n - New Piano Roll view (WIP)\n - Add echo chat as test output lyrics / song name post",
-    "AcceptsFeedback": "False",
-    "IsHide": "False",
-    "IsTestingExclusive": "False",
+    "Changelog": " Rewriting old midibard code into new dalamud api windows system\n - Enabled Lyrics for solo bards\n - New Piano Roll view (WIP)\n - Add echo chat as test output lyrics / song name post\n Add start stop (solo ensemble) via party chat PMD",
     "DownloadCount": 0,
     "LastUpdate": "1743473513",
-    "LoadSync": true,
     "DownloadLinkInstall": "https://raw.githubusercontent.com/zunetrix/DalamudPlugins/main/downloads/MidiBard2/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/zunetrix/DalamudPlugins/main/downloads/MidiBard2/latest.zip"
   },
@@ -40,15 +35,10 @@
     "Tags": [
       "utility"
     ],
-    "LoadPriority": 0,
     "IconUrl": "https://i.imgur.com/0hdDvXd.png",
     "Changelog": "Weird features added",
-    "AcceptsFeedback": "False",
-    "IsHide": "False",
-    "IsTestingExclusive": "False",
     "DownloadCount": 0,
     "LastUpdate": "1756257632",
-    "LoadSync": true,
     "DownloadLinkInstall": "https://raw.githubusercontent.com/zunetrix/DalamudPlugins/main/downloads/MasterOfPuppets/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/zunetrix/DalamudPlugins/main/downloads/MasterOfPuppets/latest.zip"
   }
