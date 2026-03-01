@@ -2,12 +2,13 @@
   "Author": "Zune",
   "Name": "Master Of Puppets",
   "InternalName": "MasterOfPuppets",
-  "AssemblyVersion": "1.0.0.98",
-  "Description": "Plugin to send macro actions",
+  "AssemblyVersion": "1.0.0.99",
+  "Description": " FFXIV plugin that lets you create and send custom actions (similar to in-game\n            macros),\n            either locally or via chat-based broadcast.\n            It supports broadcasting actions to multiple clients locally, or through in-game chat\n            channels such as Party, Linkshell, and Cross-World Linkshell.\n            Use it to trigger custom actions like emotes, minions, mounts, fashion changes, and\n            more",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/zunetrix/MasterOfPuppets",
   "Tags": [
-    "utility"
+    "utility",
+    "macro"
   ],
   "DalamudApiLevel": 14,
   "LoadRequiredState": 0,
@@ -15,7 +16,7 @@
   "CanUnloadAsync": false,
   "LoadPriority": 0,
   "IconUrl": "https://i.imgur.com/0hdDvXd.png",
-  "Punchline": "Plugin to send macro actions",
+  "Punchline": "Gremlins Control Center",
   "Changelog": "Make it work?",
   "AcceptsFeedback": false
 }
