@@ -15,7 +15,7 @@
       "midi",
       "bard"
     ],
-    "IconUrl": "https://i.imgur.com/LLHu0nw.png",
+    "IconUrl": "https://i.imgur.com/rjtwhnY.png",
     "Changelog": " Rewriting old midibard code into new dalamud api windows system\n - Enabled Lyrics for solo bards\n - New Piano Roll view (WIP)\n - Add echo chat as test output lyrics / song name post\n Add start stop (solo ensemble) via party chat PMD",
     "DownloadCount": 0,
     "LastUpdate": "1743473513",
@@ -35,7 +35,7 @@
     "Tags": [
       "utility"
     ],
-    "IconUrl": "https://i.imgur.com/0hdDvXd.png",
+    "IconUrl": "https://i.imgur.com/uFq8py7.png",
     "Changelog": "Weird features added",
     "DownloadCount": 0,
     "LastUpdate": "1756257632",
@@ -58,7 +58,7 @@
       "midi",
       "bard"
     ],
-    "IconUrl": "https://i.imgur.com/ccDwwRj.png",
+    "IconUrl": "https://i.imgur.com/Am5a7yS.png",
     "Changelog": " Broken Bard: new playlist stuff, use at your own risk",
     "DownloadCount": 0,
     "LastUpdate": "1743473513",
@@ -66,3 +66,4 @@
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/zunetrix/DalamudPlugins/main/downloads/MidiBard2Alpha/latest.zip"
   }
 ]
+
