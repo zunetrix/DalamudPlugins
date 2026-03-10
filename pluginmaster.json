@@ -43,6 +43,29 @@
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/zunetrix/DalamudPlugins/main/downloads/MasterOfPuppets/latest.zip"
   },
   {
+    "Author": "Zune, Mangles, Potatoes",
+    "Name": "Fight Club",
+    "InternalName": "FightClub",
+    "AssemblyVersion": "1.0.0.1",
+    "DalamudApiLevel": 14,
+    "Punchline": "A manager for GM-driven, roll-based mini roleplay games",
+    "Description": "The first and second rules of Fight Club are: you do not talk about Fight Club",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/zunetrix/FightClub",
+    "Tags": [
+      "roleplay",
+      "chat",
+      "minigame",
+      "roll"
+    ],
+    "IconUrl": "https://i.imgur.com/U3xHZZu.png",
+    "Changelog": "",
+    "DownloadCount": 0,
+    "LastUpdate": "1756257632",
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/zunetrix/DalamudPlugins/main/downloads/FightClub/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/zunetrix/DalamudPlugins/main/downloads/FightClub/latest.zip"
+  },
+  {
     "Author": "akira0245, Ori, Kalle, Zune",
     "Name": "MidiBard 2 (ALPHA)",
     "InternalName": "ZuneBardAlpha",
