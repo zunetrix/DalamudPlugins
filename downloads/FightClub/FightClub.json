@@ -2,7 +2,7 @@
   "Author": "Mangles, Potatoes, Zune",
   "Name": "Fight Club",
   "InternalName": "FightClub",
-  "AssemblyVersion": "1.0.0.2",
+  "AssemblyVersion": "1.0.0.3",
   "Description": "The first and second rules of Fight Club are: you do not talk about Fight Club",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/zunetrix/FightClub",
