@@ -48,7 +48,7 @@
     "InternalName": "GameChest",
     "AssemblyVersion": "1.0.0.1",
     "DalamudApiLevel": 14,
-    "Punchline": "A manager for GM-driven, mini roleplay games",
+    "Punchline": "Plugin for Final Fantasy XIV that gives Game Masters a suite of roll-based and chat-based mini-games for use in roleplay events",
     "Description": "The first and second rules of Fight Club are: you do not talk about Fight Club",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/zunetrix/GameChest",
@@ -58,7 +58,7 @@
       "minigame",
       "roll"
     ],
-    "IconUrl": "https://i.imgur.com/U3xHZZu.png",
+    "IconUrl": "https://i.imgur.com/WECX7n9.png",
     "Changelog": "",
     "DownloadCount": 0,
     "LastUpdate": "1756257632",
