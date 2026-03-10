@@ -1,0 +1,23 @@
+{
+  "Author": "Zune, Mangles, Potatoes",
+  "Name": "Game Chest",
+  "InternalName": "GameChest",
+  "AssemblyVersion": "1.0.0.2",
+  "Description": "The first and second rules of Fight Club are: you do not talk about Fight Club",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/zunetrix/GameChest",
+  "Tags": [
+    "roleplay",
+    "chat",
+    "minigame",
+    "roll"
+  ],
+  "DalamudApiLevel": 14,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "IconUrl": "https://i.imgur.com/WECX7n9.png",
+  "Punchline": "A manager for GM-driven, roll-based mini roleplay games",
+  "AcceptsFeedback": true
+}
