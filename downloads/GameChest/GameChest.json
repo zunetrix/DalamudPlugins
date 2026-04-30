@@ -2,7 +2,7 @@
   "Author": "Zune, Manglers, Potatoes",
   "Name": "Game Chest",
   "InternalName": "GameChest",
-  "AssemblyVersion": "1.0.0.16",
+  "AssemblyVersion": "1.0.0.17",
   "Description": "The first and second rules of Fight Club are: you do not talk about Fight Club",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/zunetrix/GameChest",
@@ -12,7 +12,7 @@
     "minigame",
     "roll"
   ],
-  "DalamudApiLevel": 14,
+  "DalamudApiLevel": 15,
   "LoadRequiredState": 0,
   "LoadSync": false,
   "CanUnloadAsync": false,
