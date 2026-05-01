@@ -46,7 +46,7 @@
     "Author": "Zune, Mangles, Potatoes",
     "Name": "Game Chest",
     "InternalName": "GameChest",
-    "AssemblyVersion": "1.0.0.18",
+    "AssemblyVersion": "1.0.0.19",
     "DalamudApiLevel": 15,
     "Punchline": "Plugin for Final Fantasy XIV that gives Game Masters a suite of roll-based and chat-based mini-games for use in roleplay events",
     "Description": "The first and second rules of Fight Club are: you do not talk about Fight Club",
