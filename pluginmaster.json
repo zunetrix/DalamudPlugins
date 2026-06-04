@@ -16,7 +16,7 @@
       "bard"
     ],
     "IconUrl": "https://i.imgur.com/rjtwhnY.png",
-    "Changelog": " Rewriting old midibard code into new dalamud api windows system\n - Enabled Lyrics for solo bards\n - New Piano Roll view (WIP)\n - Add echo chat as test output lyrics / song name post\n Add start stop (solo ensemble) via party chat PMD",
+    "Changelog": "New playlist system; Multiband sync support; Mew ensemble interface; Builtin midi editor",
     "DownloadCount": 0,
     "LastUpdate": "1743473513",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/zunetrix/DalamudPlugins/main/downloads/MidiBard2/latest.zip",
@@ -82,7 +82,7 @@
       "bard"
     ],
     "IconUrl": "https://i.imgur.com/Am5a7yS.png",
-    "Changelog": " Broken Bard: new playlist stuff, use at your own risk",
+    "Changelog": "New playlist system; Multiband sync support; Mew ensemble interface; Builtin midi editor",
     "DownloadCount": 0,
     "LastUpdate": "1743473513",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/zunetrix/DalamudPlugins/main/downloads/MidiBard2Alpha/latest.zip",
