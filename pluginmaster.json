@@ -36,7 +36,7 @@
       "utility"
     ],
     "IconUrl": "https://i.imgur.com/uFq8py7.png",
-    "Changelog": "Weird features added",
+    "Changelog": "Add option to enable key broadcast indicatror on server bar info",
     "DownloadCount": 0,
     "LastUpdate": "1756257632",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/zunetrix/DalamudPlugins/main/downloads/MasterOfPuppets/latest.zip",
