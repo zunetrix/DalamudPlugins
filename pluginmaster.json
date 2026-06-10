@@ -1,5 +1,25 @@
 [
   {
+    "Author": "Zune",
+    "Name": "Master Of Puppets",
+    "InternalName": "MasterOfPuppets",
+    "AssemblyVersion": "1.15.0.209",
+    "DalamudApiLevel": 15,
+    "Punchline": "Gremlins Control Center",
+    "Description": "FFXIV plugin that lets you create and send custom actions (similar to in-game macros), either locally or via chat-based broadcast. It supports broadcasting actions to multiple clients locally, or through in-game chat channels such as Party, Linkshell, and Cross-World Linkshell. Use it to trigger custom actions like emotes, minions, mounts, fashion changes, and more.",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/zunetrix/MasterOfPuppets",
+    "Tags": [
+      "utility"
+    ],
+    "IconUrl": "https://i.imgur.com/uFq8py7.png",
+    "Changelog": "Add mapflag command to broadcast flag mark",
+    "DownloadCount": 0,
+    "LastUpdate": "1756257632",
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/zunetrix/DalamudPlugins/main/downloads/MasterOfPuppets/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/zunetrix/DalamudPlugins/main/downloads/MasterOfPuppets/latest.zip"
+  },
+  {
     "Author": "akira0245, Ori, Kalle, Zune",
     "Name": "MidiBard 2 (BETA)",
     "InternalName": "ZuneBard",
@@ -16,31 +36,34 @@
       "bard"
     ],
     "IconUrl": "https://i.imgur.com/rjtwhnY.png",
-    "Changelog": "New playlist system; Multiband sync support; Mew ensemble interface; Builtin midi editor",
+    "Changelog": "New playlist system; Multiband sync support; New ensemble interface; Built in midi editor",
     "DownloadCount": 0,
     "LastUpdate": "1743473513",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/zunetrix/DalamudPlugins/main/downloads/MidiBard2/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/zunetrix/DalamudPlugins/main/downloads/MidiBard2/latest.zip"
   },
   {
-    "Author": "Zune",
-    "Name": "Master Of Puppets",
-    "InternalName": "MasterOfPuppets",
-    "AssemblyVersion": "1.15.0.209",
+    "Author": "akira0245, Ori, Kalle, Zune",
+    "Name": "MidiBard 2 (ALPHA)",
+    "InternalName": "ZuneBardAlpha",
+    "AssemblyVersion": "1.15.0.131",
     "DalamudApiLevel": 15,
-    "Punchline": "Gremlins Control Center",
-    "Description": "FFXIV plugin that lets you create and send custom actions (similar to in-game macros), either locally or via chat-based broadcast. It supports broadcasting actions to multiple clients locally, or through in-game chat channels such as Party, Linkshell, and Cross-World Linkshell. Use it to trigger custom actions like emotes, minions, mounts, fashion changes, and more.",
+    "Punchline": "Bard performance using midi files or keyboard.\nSupported by FFXIV Bards & Bands Community: discord.gg/ff14bard",
+    "Description": "Bard performance using midi files or keyboard.\n- Solo and ensemble mode support\n- Text commands for instrument equip and switch\nSupported by FFXIV Bards & Bands Community: discord.gg/ff14bard",
     "ApplicableVersion": "any",
-    "RepoUrl": "https://github.com/zunetrix/MasterOfPuppets",
+    "RepoUrl": "https://midibard.org",
     "Tags": [
-      "utility"
+      "music",
+      "utility",
+      "midi",
+      "bard"
     ],
-    "IconUrl": "https://i.imgur.com/uFq8py7.png",
-    "Changelog": "Add option to enable key broadcast indicatror on server bar info",
+    "IconUrl": "https://i.imgur.com/Am5a7yS.png",
+    "Changelog": "New playlist system; Multiband sync support; New ensemble interface; Builtin midi editor",
     "DownloadCount": 0,
-    "LastUpdate": "1756257632",
-    "DownloadLinkInstall": "https://raw.githubusercontent.com/zunetrix/DalamudPlugins/main/downloads/MasterOfPuppets/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/zunetrix/DalamudPlugins/main/downloads/MasterOfPuppets/latest.zip"
+    "LastUpdate": "1743473513",
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/zunetrix/DalamudPlugins/main/downloads/MidiBard2Alpha/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/zunetrix/DalamudPlugins/main/downloads/MidiBard2Alpha/latest.zip"
   },
   {
     "Author": "Zune, Mangles, Potatoes",
@@ -64,28 +87,5 @@
     "LastUpdate": "1756257632",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/zunetrix/DalamudPlugins/main/downloads/GameChest/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/zunetrix/DalamudPlugins/main/downloads/GameChest/latest.zip"
-  },
-  {
-    "Author": "akira0245, Ori, Kalle, Zune",
-    "Name": "MidiBard 2 (ALPHA)",
-    "InternalName": "ZuneBardAlpha",
-    "AssemblyVersion": "1.15.0.131",
-    "DalamudApiLevel": 15,
-    "Punchline": "Bard performance using midi files or keyboard.\nSupported by FFXIV Bards & Bands Community: discord.gg/ff14bard",
-    "Description": "Bard performance using midi files or keyboard.\n- Solo and ensemble mode support\n- Text commands for instrument equip and switch\nSupported by FFXIV Bards & Bands Community: discord.gg/ff14bard",
-    "ApplicableVersion": "any",
-    "RepoUrl": "https://midibard.org",
-    "Tags": [
-      "music",
-      "utility",
-      "midi",
-      "bard"
-    ],
-    "IconUrl": "https://i.imgur.com/Am5a7yS.png",
-    "Changelog": "New playlist system; Multiband sync support; Mew ensemble interface; Builtin midi editor",
-    "DownloadCount": 0,
-    "LastUpdate": "1743473513",
-    "DownloadLinkInstall": "https://raw.githubusercontent.com/zunetrix/DalamudPlugins/main/downloads/MidiBard2Alpha/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/zunetrix/DalamudPlugins/main/downloads/MidiBard2Alpha/latest.zip"
   }
 ]
