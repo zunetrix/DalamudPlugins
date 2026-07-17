@@ -36,7 +36,7 @@
       "bard"
     ],
     "IconUrl": "https://i.imgur.com/rjtwhnY.png",
-    "Changelog": "New playlist system; Multiband sync support; New ensemble interface; Built in midi editor",
+    "Changelog": "Add server bar shortcut icon option; Fix non english compensation window",
     "DownloadCount": 0,
     "LastUpdate": "1743473513",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/zunetrix/DalamudPlugins/main/downloads/MidiBard2/latest.zip",
@@ -59,7 +59,7 @@
       "bard"
     ],
     "IconUrl": "https://i.imgur.com/Am5a7yS.png",
-    "Changelog": "New playlist system; Multiband sync support; New ensemble interface; Builtin midi editor",
+    "Changelog": "Add server bar shortcut icon option; Fix non english compensation window",
     "DownloadCount": 0,
     "LastUpdate": "1743473513",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/zunetrix/DalamudPlugins/main/downloads/MidiBard2Alpha/latest.zip",
