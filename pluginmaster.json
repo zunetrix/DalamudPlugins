@@ -13,7 +13,7 @@
       "utility"
     ],
     "IconUrl": "https://i.imgur.com/uFq8py7.png",
-    "Changelog": " Improve stop commands \n Add formation tracking \n Add macro conditionals \n Add formation target support \n Add formation move natural movenent move option \n Add importer improvements",
+    "Changelog": "Add macro variable expressions",
     "DownloadCount": 0,
     "LastUpdate": "1756257632",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/zunetrix/DalamudPlugins/main/downloads/MasterOfPuppets/latest.zip",
