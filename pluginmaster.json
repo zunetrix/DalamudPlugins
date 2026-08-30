@@ -13,7 +13,7 @@
       "utility"
     ],
     "IconUrl": "https://i.imgur.com/uFq8py7.png",
-    "Changelog": "Fix Chat Message handler PMD",
+    "Changelog": " Improve stop commands \n Add formation tracking \n Add macro conditionals \n Add formation target support \n Add formation move natural movenent move option \n Add importer improvements",
     "DownloadCount": 0,
     "LastUpdate": "1756257632",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/zunetrix/DalamudPlugins/main/downloads/MasterOfPuppets/latest.zip",
@@ -59,7 +59,7 @@
       "bard"
     ],
     "IconUrl": "https://i.imgur.com/Am5a7yS.png",
-    "Changelog": "Add sort by file added at playlist",
+    "Changelog": "Fix Chat Message handler PMD",
     "DownloadCount": 0,
     "LastUpdate": "1743473513",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/zunetrix/DalamudPlugins/main/downloads/MidiBard2Alpha/latest.zip",
